@@ -1,3 +1,11 @@
+#### 运行
+
+```yarn build
+yarn sync
+yarn run:ios
+yarn run:android```
+
+
 #### ionic
 
 ```
