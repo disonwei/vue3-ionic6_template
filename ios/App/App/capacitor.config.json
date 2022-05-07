@@ -1,1 +1,9 @@
-{}
+{
+	"appId": "io.ionic.starter",
+	"appName": "ionic_template",
+	"webDir": "www",
+	"bundledWebRuntime": false,
+	"server": {
+		"url": "http://192.168.11.170:8100"
+	}
+}
